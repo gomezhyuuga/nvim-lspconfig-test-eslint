@@ -1,0 +1,23 @@
+{
+  "name": "project-eslint-eslintrcjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezhyuuga/nvim-lspconfig-test-eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomezhyuuga/nvim-lspconfig-test-eslint/issues"
+  },
+  "homepage": "https://github.com/gomezhyuuga/nvim-lspconfig-test-eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
